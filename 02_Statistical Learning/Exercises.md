@@ -9,3 +9,4 @@
 ```R
 for (i in 1:dim(a)[1]){print(dist(rbind(a[i,],b)))}
 ```
+![image.png](http://upload-images.jianshu.io/upload_images/7567244-47d6f865085d02f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
